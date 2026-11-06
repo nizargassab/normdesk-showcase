@@ -1,5 +1,3 @@
-![NormDesk](assets/cover.svg)
-
 # NormDesk
 
 A multi-company workspace combining CRM, agent workflows and document-based AI assistance. Each company has its own working context, and the assistant uses the documents available to the authenticated user.
